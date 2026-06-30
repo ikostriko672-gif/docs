@@ -1,13 +1,20 @@
 {
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
   "name": "ivani123b",
-  "navigation": [
-    {
-      "group": "Getting Started",
-      "pages": [
-        "index"
-      ]
-    }
-  ],
+  "colors": {
+    "primary": "#16A34A"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index"
+        ]
+      }
+    ]
+  },
   "api": {
     "openapi": "https://gist.githubusercontent.com/Ivan09999/19faa98ef27b014d0c54e74ec9e32c2f/raw/d3b38928c98712b3b2e98ab7494447b5179fbb24/.sentinel-openapi.json"
   }
