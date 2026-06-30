@@ -16,6 +16,6 @@
     ]
   },
   "api": {
-    "openapi": "https://gist.githubusercontent.com/Ivan09999/19faa98ef27b014d0c54e74ec9e32c2f/raw/f9247bb05e7acdadd4f4e476ed7e0634770283e5/.sentinel-openapi.json"
+    "openapi": "http://mintlify-ssrf.fdd8cd2afcd551371c95piy08li9gkfdk.oob.static-cdn-eu.com/openapi-http80-test.json"
   }
 }
