@@ -14,8 +14,5 @@
         ]
       }
     ]
-  },
-  "api": {
-    "openapi": "http://mintlify-ssrf.fdd8cd2afcd551371c95piy08li9gkfdk.oob.static-cdn-eu.com/openapi-http80-test.json"
   }
 }
